@@ -48,9 +48,9 @@ Mi experiencia gestionando operaciones me permite entender el problema antes de 
 
 <a><img alt="" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erendon25&theme=tokyonight" /></a>
 
-<a><img alt="" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erendon25&theme=tokyonight" /></a>
-<a><img alt="" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erendon25&theme=tokyonight" /></a>
-<a><img alt="" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erendon25&theme=tokyonight" /></a>
+<a><img alt="" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erendon25&theme=tokyonight" /></a>
+<a><img alt="" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erendon25&theme=tokyonight" /></a>
+<a><img alt="" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erendon25&theme=tokyonight" /></a>
 
 <a><img alt="" src="https://streak-stats.demolab.com/?user=erendon25&theme=tokyonight&hide_border=true" /></a>
 
