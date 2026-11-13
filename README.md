@@ -51,14 +51,27 @@ Mi experiencia gestionando operaciones me permite entender el problema antes de 
 
 <div align="center">
 
-<img height="165" alt="Estadísticas de Erick Rendon" src="https://github-readme-stats.vercel.app/api?username=erendon25&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erendon25&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img alt="Racha de contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=erendon25&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td align="center" valign="top"><img height="170" src="https://github-readme-stats.vercel.app/api?username=erendon25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
+<td align="center" valign="top"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erendon25&layout=compact&theme=tokyonight&hide_border=true" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=erendon25&theme=tokyonight&hide_border=true" /></td>
+</tr>
+</table>
 
 </div>
 
 ---
+
+## 🧰 Stack principal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,python,firebase,supabase,postgres,docker,github,githubactions,powerbi&perline=12" />
+
+</div>
 
 ## 🚀 Proyectos destacados
 
