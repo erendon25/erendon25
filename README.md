@@ -31,17 +31,12 @@ Mi experiencia gestionando operaciones me permite entender el problema antes de 
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Power BI](https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811)
+<a><img alt="" src="https://skillicons.dev/icons?i=js,ts,react,vite,python,firebase,supabase,postgres,docker,github,githubactions&perline=11" /></a>
+
+<a><img alt="" src="https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811" /></a>
+<a><img alt="" src="https://img.shields.io/badge/Agentes_de_IA-111827?style=flat-square&logo=anthropic&logoColor=white" /></a>
+<a><img alt="" src="https://img.shields.io/badge/Scraping-111827?style=flat-square&logo=puppeteer&logoColor=40B5A4" /></a>
+<a><img alt="" src="https://img.shields.io/badge/Telegram_Bots-111827?style=flat-square&logo=telegram&logoColor=26A5E4" /></a>
 
 </div>
 
@@ -51,27 +46,17 @@ Mi experiencia gestionando operaciones me permite entender el problema antes de 
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="top"><img height="170" src="https://github-readme-stats.vercel.app/api?username=erendon25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
-<td align="center" valign="top"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erendon25&layout=compact&theme=tokyonight&hide_border=true" /></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=erendon25&theme=tokyonight&hide_border=true" /></td>
-</tr>
-</table>
+<a><img alt="" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erendon25&theme=tokyonight" /></a>
+
+<a><img alt="" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erendon25&theme=tokyonight" /></a>
+<a><img alt="" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erendon25&theme=tokyonight" /></a>
+<a><img alt="" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erendon25&theme=tokyonight" /></a>
+
+<a><img alt="" src="https://streak-stats.demolab.com/?user=erendon25&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
 ---
-
-## 🧰 Stack principal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,vite,python,firebase,supabase,postgres,docker,github,githubactions,powerbi&perline=12" />
-
-</div>
 
 ## 🚀 Proyectos destacados
 
