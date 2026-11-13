@@ -1,6 +1,6 @@
 <div align="center">
 
-# Erick Rendon
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Erick+Rendon;Desarrollador+de+software;Automatizaci%C3%B3n+%C2%B7+Agentes+de+IA;Convierto+procesos+reales+en+software+%C3%BAtil)](https://git.io/typing-svg)
 
 ### Desarrollador de software · Automatización · Agentes de IA
 
@@ -14,18 +14,20 @@ Construyo productos digitales que convierten procesos operativos reales en siste
 
 ---
 
-## Sobre mí
+## 👋 Sobre mí
 
 Soy desarrollador de software en **Vibe Solutions Tech**, especializado en crear aplicaciones web, herramientas de gestión y automatizaciones apoyadas por inteligencia artificial.
 
-Mi experiencia gestionando operaciones me permite entender el problema antes de escribir código: diseño soluciones para horarios, inventarios, ventas, reportes y procesos administrativos, con foco en utilidad, mantenibilidad y resultados.
+Mi experiencia gestionando operaciones me permite entender el problema antes de escribir código: diseño soluciones para horarios, inventarios, ventas, reportes y procesos administrativos, con foco en **utilidad, mantenibilidad y resultados**.
 
 - 🤖 Desarrollo flujos de trabajo con **agentes de IA** y automatización.
 - 🧩 Convierto procesos manuales en aplicaciones web orientadas al negocio.
 - 📊 Integro datos, dashboards, scraping y notificaciones automáticas.
 - 🌎 Disponible para proyectos y oportunidades remotas en español.
 
-## Tecnologías
+---
+
+## 🛠️ Tecnologías
 
 <div align="center">
 
@@ -43,7 +45,22 @@ Mi experiencia gestionando operaciones me permite entender el problema antes de 
 
 </div>
 
-## Proyectos destacados
+---
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" alt="Estadísticas de Erick Rendon" src="https://github-readme-stats.vercel.app/api?username=erendon25&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erendon25&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img alt="Racha de contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=erendon25&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
 
 | Proyecto | Solución | Tecnologías |
 |---|---|---|
@@ -54,22 +71,22 @@ Mi experiencia gestionando operaciones me permite entender el problema antes de 
 | **[Control de préstamos](https://github.com/erendon25/Prestamista)** | Plataforma para gestionar préstamos, pagos y seguimiento de clientes. | React · JavaScript |
 | **[POS Abarrotes](https://github.com/erendon25/pos-abarrotes-downloads)** | Sistema de punto de venta para Windows orientado a pequeños comercios. | Desktop · Gestión comercial |
 
-## En qué estoy trabajando
+---
 
-Actualmente desarrollo soluciones para pequeñas empresas y operaciones comerciales:
+## 🔭 En qué estoy trabajando
 
-- Sistemas de gestión y ERP adaptados al proceso real del cliente.
-- Agentes de IA para análisis, automatización y soporte operativo.
-- Aplicaciones web instalables y experiencias optimizadas para móvil.
-- Integraciones con bases de datos, reportes y servicios externos.
+- 🏢 Sistemas de gestión y ERP adaptados al proceso real del cliente.
+- 🧠 Agentes de IA para análisis, automatización y soporte operativo.
+- 📱 Aplicaciones web instalables y experiencias optimizadas para móvil.
+- 🔗 Integraciones con bases de datos, reportes y servicios externos.
 
-## Mi enfoque
+## 🧭 Mi enfoque
 
 ```text
 Problema operativo → flujo simple → producto funcional → medición → mejora continua
 ```
 
-Me interesa construir software que se use de verdad: menos demostración, más solución.
+> Me interesa construir software que se use de verdad: menos demostración, más solución.
 
 ---
 
@@ -79,6 +96,8 @@ Me interesa construir software que se use de verdad: menos demostración, más s
 
 **Podemos convertirlo en una solución digital.**
 
-[LinkedIn](https://www.linkedin.com/in/erick-rendon-moyano-596b04b6) · [Correo](mailto:erickrendon18@gmail.com) · [Repositorios](https://github.com/erendon25?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Escríbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-rendon-moyano-596b04b6)
+[![Correo](https://img.shields.io/badge/Enviar_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickrendon18@gmail.com)
+[![Repositorios](https://img.shields.io/badge/Ver_repositorios-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erendon25?tab=repositories)
 
 </div>
